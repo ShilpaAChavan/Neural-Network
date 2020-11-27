@@ -1,0 +1,6 @@
+PREDICT THE BURNED AREA OF FOREST FIRES WITH NEURAL NETWORKS
+https://www.python-course.eu/neural_networks_with_scikit.php
+
+https://www.datasklr.com/select-classification-methods/multi-layer-perceptron
+
+https://medium.com/@annishared/build-your-first-neural-network-in-python-c80c1afa464

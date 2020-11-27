@@ -1,0 +1,26 @@
+Prepare a model for strength of concrete data using Neural Networks
+
+
+
+From shweta to Everyone:  04:57 PM
+m still getting errors
+sir I tired it
+i did that now
+Error in model.frame.default(data = ..1, formula = x) : 
+  variable lengths differ (found for 'xbox')
+From Madhu to Everyone:  04:58 PM
+Setting default kernel parameters  
+Error in .local(x, ...) : 
+  No Support Vectors found. You may want to change your parameters
+In addition: Warning message:
+In .local(x, ...) : NAs introduced by coercion
+From Nikanksha Jain to Everyone:  05:00 PM
+still showing error
+letter_classifier <- ksvm(letters$letter~., data = letters_train,kernel = "vanilladot")
+Error in model.frame.default(data = ..1, formula = x) : 
+  variable lengths differ (found for 'xbox')
+From Varun to Everyone:  05:01 PM
+ na.action =
+na.omit
+
+
